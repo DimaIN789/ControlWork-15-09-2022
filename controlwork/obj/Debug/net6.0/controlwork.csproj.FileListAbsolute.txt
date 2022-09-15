@@ -1,0 +1,15 @@
+E:\IT\GIT\C#\2826\ContriolWork\controlwork\obj\Debug\net6.0\controlwork.csproj.AssemblyReference.cache
+E:\IT\GIT\C#\2826\ContriolWork\controlwork\obj\Debug\net6.0\controlwork.GeneratedMSBuildEditorConfig.editorconfig
+E:\IT\GIT\C#\2826\ContriolWork\controlwork\obj\Debug\net6.0\controlwork.AssemblyInfoInputs.cache
+E:\IT\GIT\C#\2826\ContriolWork\controlwork\obj\Debug\net6.0\controlwork.AssemblyInfo.cs
+E:\IT\GIT\C#\2826\ContriolWork\controlwork\obj\Debug\net6.0\controlwork.csproj.CoreCompileInputs.cache
+E:\IT\GIT\C#\2826\ContriolWork\controlwork\bin\Debug\net6.0\controlwork.exe
+E:\IT\GIT\C#\2826\ContriolWork\controlwork\bin\Debug\net6.0\controlwork.deps.json
+E:\IT\GIT\C#\2826\ContriolWork\controlwork\bin\Debug\net6.0\controlwork.runtimeconfig.json
+E:\IT\GIT\C#\2826\ContriolWork\controlwork\bin\Debug\net6.0\controlwork.dll
+E:\IT\GIT\C#\2826\ContriolWork\controlwork\bin\Debug\net6.0\controlwork.pdb
+E:\IT\GIT\C#\2826\ContriolWork\controlwork\obj\Debug\net6.0\controlwork.dll
+E:\IT\GIT\C#\2826\ContriolWork\controlwork\obj\Debug\net6.0\refint\controlwork.dll
+E:\IT\GIT\C#\2826\ContriolWork\controlwork\obj\Debug\net6.0\controlwork.pdb
+E:\IT\GIT\C#\2826\ContriolWork\controlwork\obj\Debug\net6.0\controlwork.genruntimeconfig.cache
+E:\IT\GIT\C#\2826\ContriolWork\controlwork\obj\Debug\net6.0\ref\controlwork.dll
